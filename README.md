@@ -1,4 +1,4 @@
-### <sub><b>Hello World, it's me, Gabriela</b></sub> 
+### <b>Hello World, it's me, Gabriela</b>
 
 
 ![Gabriela Cid](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
