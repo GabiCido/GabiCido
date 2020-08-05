@@ -1,6 +1,12 @@
-### Hello World, it's me, Gabriela. 
+### <sub><b>Hello World, it's me, Gabriela</b></sub> 
 
 ![Gabriela Cid](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
+---
+<sub><b>Entre em contato!</b></sub></a>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/gabicido/)](https://www.linkedin.com/in/gabicido/)
+
 
 
 <!--
