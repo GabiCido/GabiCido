@@ -1,6 +1,6 @@
 ### Hello World, it's me, Gabriela. 
 
-![Gabriela Cid](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+![Gabriela Cid](https://media.giphy.com/media/L8K62iTDkzGX6/source.gif)
 
 
 <!--
