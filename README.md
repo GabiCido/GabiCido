@@ -1,4 +1,4 @@
-###  :gem:  <sub><b>Hello World, it's me, Gabriela</b></sub>
+###  :gem:  <sub><b>Hello World, it's Gabriela</b></sub>
 
 
 ![Gabriela Cid](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
