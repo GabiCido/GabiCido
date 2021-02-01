@@ -5,7 +5,7 @@
 📚 I'm currently learning web development program at Rocketseat.<br>
 😍 I am passionate about coding.<br>
 🌟 I love to learn and contribute in many ways.<br>
-⚡ Fun fact: I love watch sci-fi anime in my free time.<br>
+⚡ Fun fact: I love sci-fi anime.<br>
 🤓 I'm bilingual in spoken languages, and multilingual in programming languages.<br>
   
 </ul>  
